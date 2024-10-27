@@ -40,14 +40,11 @@
 <a href="https://www.w3schools.com/bootstrap/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" alt="JS" width="40" height="40"/> </a> 
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-dwivedi08&show_icons=true&locale=en&layout=compact" alt="abhishek-dwivedi08" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek-dwivedi08&show_icons=true&locale=en" alt="abhishek-dwivedi08" /></p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhaymishra24&show_icons=true&locale=en&layout=compact" alt="abhaymishra24" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhaymishra24&show_icons=true&locale=en" alt="abhaymishra24" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhaymishra24&" alt="abhaymishra24" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-dwivedi08&" alt="abhishek-dwivedi08" /></p>
 
 <h3 align="left"> 😊Thank you for visiting my profile:</h3>
 
