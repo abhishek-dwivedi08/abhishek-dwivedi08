@@ -1,10 +1,10 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,Everyone!+👋;Welcome+to+my+Github+💻;This+is+Abhay+Mishra+😊;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,Everyone!+👋;Welcome+to+my+Github+💻;This+is+Abhishek+😊;&center=true&size=30">
   </a>
 </h1>
 
-![header_](https://user-images.githubusercontent.com/80106274/155994781-7c22a80e-99b6-4e2e-a288-a706e1818289.png)
+![header_](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F68097599%2FBanner-Images-for-Coding-Challenges%2Fmodules%2F398083399&psig=AOvVaw1E9P_77qhUNMyusjHHAy2O&ust=1730105373363000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNDC8_OWrokDFQAAAAAdAAAAABAE)
 <h2 align="center"><i>You may not like your workplace,<span><span/>but  should like your work and do it daily with consistency and passion.</i> 🧑‍💻🚀 </h2>
 
 
