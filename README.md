@@ -36,7 +36,9 @@
 
 
 <h3 align="left">💻⚙️Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/290/579/png-transparent-html-html-logo-html-5-html-five-logo-html-5-logo-programming-langugae-3d-icon-thumbnail.png" alt="HTML" width="40" height="40"/> </a> 
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/290/579/png-transparent-html-html-logo-html-5-html-five-logo-html-5-logo-programming-langugae-3d-icon-thumbnail.png" alt="HTML" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="CSS" width="40" height="40"/> </a> <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="[https://cdn-icons-png.flaticon.com/512/919/919826.png](https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png)" alt="JS" width="40" height="40"/> </a> 
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhaymishra24&show_icons=true&locale=en&layout=compact" alt="abhaymishra24" /></p>
 
