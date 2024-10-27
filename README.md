@@ -4,13 +4,13 @@
   </a>
 </h1>
 
-![header_](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F68097599%2FBanner-Images-for-Coding-Challenges%2Fmodules%2F398083399&psig=AOvVaw1E9P_77qhUNMyusjHHAy2O&ust=1730105373363000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNDC8_OWrokDFQAAAAAdAAAAABAE)
+![header_](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F68097599%2FBanner-Images-for-Coding-Challenges%2Fmodules%2F398083399&psig=AOvVaw1_CqOoZopM1yYdF-_MQ1n1&ust=1730105383731000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPi0wY2XrokDFQAAAAAdAAAAABAE)
 <h2 align="center"><i>You may not like your workplace,<span><span/>but  should like your work and do it daily with consistency and passion.</i> 🧑‍💻🚀 </h2>
 
 
 <img align="right" alt="Programming" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaymishra24&label=Profile%20views&color=0e75b6&style=flat" alt="abhaymishra24" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaymishra24&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-dwivedi08" /> </p>
 
 ### 🤓 About Me:
 
