@@ -5,7 +5,7 @@
 </h1>
 
 ![header_](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F68097599%2FBanner-Images-for-Coding-Challenges%2Fmodules%2F398083399&psig=AOvVaw1_CqOoZopM1yYdF-_MQ1n1&ust=1730105383731000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPi0wY2XrokDFQAAAAAdAAAAABAE)
-<h2 align="center"><i>You may not like your workplace,<span><span/>but  should like your work and do it daily with consistency and passion.</i> 🧑‍💻🚀 </h2>
+<h2 align="center"><i>Your passion for the craft can transform challenges into opportunities for growth and innovation.</i> 🧑‍💻🚀 </h2>
 
 
 <img align="right" alt="Programming" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
@@ -24,17 +24,14 @@
 
 - 💬 Ask me about *Data Science, Software Development, Entrepreneurship.*
 
-- 📫 How to reach me *(techabhay06@gmail.com)*
+- 📫 How to reach me *(abhishekduvey388@gmail.com)*
 
 - ⚡ Fun fact- *I like meeting new people, getting to know them, engaging in discussion, and collaborating on projects.🤝*
 
 <h3 align="left">🤝Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/techabhay06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="techabhay06" height="30" width="40" /></a>
-<a href="https://abhaymishra24.github.io/" target="blank"><img align="center" src="https://www.svgrepo.com/show/429905/portfolio-my-profile-browser.svg" alt="abhaymishra24" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/abhaymishra86" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhaymishra86" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/techabhay06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="techabhay06" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abhaymishra08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhaymishra08" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhishek-dwivedi-b87314216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-dwivedi08" height="30" width="40" /></a>
+<a href="https://abhishekduvey388@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhaymishra08" height="30" width="40" /></a>
 </p>
 
 
